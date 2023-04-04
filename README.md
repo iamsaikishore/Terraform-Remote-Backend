@@ -16,3 +16,5 @@ $ terraform init
 ```
 #### Now State Locking is enabled (Check the S3 Bucket for State File)
 
+
+S3 Bucket should be created first and then infrastructure should be provisioned
